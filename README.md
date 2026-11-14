@@ -11,7 +11,7 @@
 
 <br />
 
-<a href="https://t.me/qexus" title="Telegram: @qexus"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="30" height="30" alt="Telegram @qexus" /></a> &nbsp; <a href="mailto:qexus@icloud.com" title="Email: qexus@icloud.com"><img src="./assets/email-icon.svg" width="30" height="30" alt="Email qexus@icloud.com" /></a>
+<a href="https://t.me/qexus" title="Telegram: @qexus"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="30" height="30" alt="Telegram @qexus" /></a> &nbsp; <a href="mailto:reserout@gmail.com" title="Email: reserout@gmail.com"><img src="./assets/email-icon.svg" width="30" height="30" alt="Email reserout@gmail.com" /></a>
 
 </div>
 
