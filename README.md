@@ -9,6 +9,10 @@
 ![Focus: AI & Automation](https://img.shields.io/badge/FOCUS-AI_%26_AUTOMATION-111827?style=for-the-badge&labelColor=06B6D4&color=111827)
 ![Learning in public](https://img.shields.io/badge/STATUS-LEARNING_IN_PUBLIC-111827?style=for-the-badge&labelColor=EF476F&color=111827)
 
+<br />
+
+<a href="https://t.me/qexus" title="Telegram: @qexus"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="30" height="30" alt="Telegram @qexus" /></a>
+
 </div>
 
 ## `> whoami`
