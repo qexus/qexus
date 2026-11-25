@@ -11,7 +11,9 @@
 
 <br />
 
-<a href="https://t.me/qexus" title="Telegram: @qexus"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="30" height="30" alt="Telegram @qexus" /></a> &nbsp; <a href="mailto:reserout@gmail.com" title="Email: reserout@gmail.com"><img src="./assets/email-icon.svg" width="30" height="30" alt="Email reserout@gmail.com" /></a>
+<a href="https://t.me/qexus" title="Telegram: @qexus"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="30" height="30" alt="Telegram @qexus" /></a> &nbsp; <a href="https://qexus.github.io/" title="Website: qexus.github.io"><img src="./assets/email-icon.svg" width="30" height="30" alt="Website and contact: qexus.github.io" /></a>
+
+<sub>✉️ reserout [at] gmail [dot] com</sub>
 
 </div>
 
@@ -50,24 +52,17 @@ I'm building this GitHub space as a public lab for experiments and future projec
 | 🏭 **Automation Lab** | PLC logic, simulation, and industrial automation fundamentals |
 | 🎛️ **Hardware Lab** | Useful tools and experiments for compact devices |
 
-> As I publish projects, I'll replace this roadmap with links to real repositories and demos.
 
-## `> github_activity`
+## `> projects`
 
-<div align="center">
+| Project | What it is | Live |
+|:--|:--|:--|
+| 🌐 [qexus.github.io](https://github.com/qexus/qexus.github.io) | Portfolio hub, sitemap, shared i18n/fonts, uptime &amp; browser QA (Playwright, Lighthouse) | [qexus.github.io](https://qexus.github.io/) |
+| 🐟 [fisheries](https://github.com/qexus/fisheries) | Norway fisheries: public registries, 12-lesson academy, RU/FR/UA, weekly data pipeline in GitHub Actions | [/fisheries/](https://qexus.github.io/fisheries/) |
+| 🍁 [fisheries-ca](https://github.com/qexus/fisheries-ca) | Canada edition: CFIA / DFO open data, Job Bank snapshots, offline CV &amp; application tracker | [/fisheries-ca/](https://qexus.github.io/fisheries-ca/) |
+| 🏭 [manac](https://github.com/qexus/manac) | Independent career guide for Manac, Saint-Georges (QC), RU/FR/UA | [/manac/](https://qexus.github.io/manac/) |
 
-<img src="https://github-readme-stats.vercel.app/api?username=qexus&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=18E5DF&icon_color=EF476F&text_color=C9D1D9" alt="Serhii's GitHub activity statistics" />
-
-</div>
-
-<!-- Once you publish at least one code repository, remove the comment markers
-     around the following block to display your most-used repository languages.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qexus&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=18E5DF&text_color=C9D1D9" alt="Most-used languages in public repositories" />
-</div>
-
--->
+<sub>All sites are static, privacy-first (no accounts, data stays in the browser) and ship with CSP, automated content/security tests and CI.</sub>
 
 ---
 
