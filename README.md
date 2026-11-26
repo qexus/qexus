@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/qexus-banner.svg" alt="QEXUS — GLITCH LAB / AI, automation and creative technology" width="100%" />
+<img src="./assets/qexus-banner.png" alt="Qexus Lab — AI, Automation, Web, Systems" width="100%" />
 
 <br />
 
